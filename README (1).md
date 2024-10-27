@@ -120,13 +120,6 @@ import theano.tensor           as tt
 
 [Scikit-learn](https://github.com/scikit-learn/scikit-learn) - tool for predictive data analysis built on numpy, scipy and matplotlib.
 
-## ⚖ License
-This project is under the MIT License. See [LICENSE](LICENSE) for Details.
-
-## 👥 Contributors 
-- Siddharth RA1911003010117
-- Evina RA1911003010104
-
 <a href="https://github.com/siddharth271101/Water-Quality-Analysis/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=siddharth271101/Water-Quality-Analysis" />
 </a>
